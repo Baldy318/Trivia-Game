@@ -1,0 +1,23 @@
+body{
+	background-image: url("https://cdn.wallpapersafari.com/50/1/IPomtN.jpg");
+	text-align: center;
+}
+
+.container{
+	background-color: antiquewhite;
+	margin-left: 25%;
+	margin-right: 25%;
+	border: 2px;
+	border-block-color: blue;
+
+}
+
+.text-muted{
+	color: blue;
+}
+.last-seconds{
+  color: red;
+}
+.option{
+  margin: 15px;
+}
